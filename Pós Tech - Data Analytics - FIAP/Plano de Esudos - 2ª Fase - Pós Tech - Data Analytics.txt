@@ -1,14 +1,14 @@
 -- Plano de Estudos --
 
-Início: 10/02/2025
+Início: 22/02/2025
 Prazo final: 24/03/2025
 
-Duração total: 42 dias
-Total de aulas: 27
+Duração total: 32 dias
+Total de aulas: 24
 
 Frequência: 1 aula por dia
 
-Tempo necessário para concluir: 27 dias
-Dias restantes após conclusão: 15 dias
+Tempo necessário para concluir: 24 dias
+Dias restantes após a conclusão: 8 dias
 
 -----------------------------------------------------------------------
